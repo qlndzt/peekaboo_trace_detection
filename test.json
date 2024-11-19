@@ -1,0 +1,28 @@
+[
+    {
+        "index": "178935",
+        "address": "0x7ffff6f96141",
+        "operation": "44 89 c0",
+        "registers": {
+            "rdi": "0",
+            "rsi": "3c",
+            "rsp": "7fffffffe908",
+            "rbp": "0",
+            "rbx": "7ffff709b8a0",
+            "rdx": "0",
+            "rcx": "c00",
+            "rax": "7ffff7d23bdc",
+            "r8": "e7",
+            "r9": "ffffffffffffff80",
+            "r10": "2",
+            "r11": "246",
+            "r12": "7ffff709b8a0",
+            "r13": "1",
+            "r14": "7ffff70a42e8",
+            "r15": "0",
+            "rflags": "246",
+            "rip": "7ffff6f96144"
+        }
+    }
+]
+
