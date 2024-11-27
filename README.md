@@ -17,6 +17,7 @@ This repository provides a workflow for analyzing register traces from vulnerabl
 - `imporved_txt_to_json.py`: Parses raw trace files into JSON format.
 - `analyze_reg.py`: Analyzes the parsed register data for suspicious patterns.
 - `output_analysis.py`: Interfaces with the OpenAI API to analyze suspicious register traces.
+- - `trace_data/`: Directory containing sample trace files.
 - `initial_bo/`: Directory containing the original analysis function introduced in section ​​3
 - `uaf/`: Directory containing the uaf analysis function introduced in section ​​3.5.3
 
