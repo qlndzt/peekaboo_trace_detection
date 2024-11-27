@@ -24,7 +24,7 @@ This repository provides a workflow for analyzing register traces from vulnerabl
 
 1. Clone this repository:
    ```bash
-   git clone [<repository-url>](https://github.com/qlndzt/peekaboo_trace_detection.git)
+   git clone https://github.com/qlndzt/peekaboo_trace_detection.git
    ```
 2. Install required Python packages for main function:
    ```bash
